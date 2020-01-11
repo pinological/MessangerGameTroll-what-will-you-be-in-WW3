@@ -1,0 +1,31 @@
+.top {
+    background-color: green;
+    padding: 40px 40px;
+    margin: 0px;
+    top: 0px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.word {
+    color: yellowgreen;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.yoda {
+    color: whitesmoke;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover {
+    color: orangered;
+}
+
+#maintext {
+    color: greenyellow;
+    font-size: 30px;
+}
