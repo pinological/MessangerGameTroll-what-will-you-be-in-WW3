@@ -13,5 +13,5 @@ function okboomer() {
     console.log(getran(1, 10));
     let numb = getran(1, 10);
     document.getElementById("maintext").innerHTML = name + " " + "you will be that " + " " + guy[(numb - 1)];
-    document.getElementById("main").innerHTML = "<img src=" + "/photo/" + numb + ".jpg>";
+    document.getElementById("main").innerHTML = "<img src=" + "photo/" + numb + ".jpg>";
 }
